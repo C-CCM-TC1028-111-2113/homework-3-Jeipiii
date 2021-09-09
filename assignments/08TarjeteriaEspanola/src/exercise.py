@@ -1,3 +1,6 @@
+##Tienes multiples errores, el programa no corre
+##Hay que probar los programas para verificar que funcionen
+
 def total_tarjeta(albanene, plumones):
     pli_tarjetas = pliegos * 12
     plu_tarjetas = pliegos * 35

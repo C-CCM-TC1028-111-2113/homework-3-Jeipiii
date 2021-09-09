@@ -4,11 +4,11 @@ def main():
     año =int(input("Dame el valor de un año : "))
     def es_bisiesto(año):
         if año % 4 == 0:
-            True
+            True ##  NO ESTAS REGRESANDO VALORES, TIENES QUE USAR RETURN
         elif año % 100 == 0:
-            False
+            False   ##  NO ESTAS REGRESANDO VALORES, TIENES QUE USAR RETURN
         else:
-            False
+            False ##  NO ESTAS REGRESANDO VALORES, TIENES QUE USAR RETURN
 
     print(es_bisiesto(año)) 
     pass
