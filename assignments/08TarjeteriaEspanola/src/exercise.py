@@ -10,7 +10,7 @@ def main ():
     pliegos = int(input("Dame la cantidad de albanene"))
     plumones  = int(input("Dame la cantidad de plumones"))
     maximo = total_tarjeta(albanene, plumones))
-    print("El numero máximo de tarjetas es (total_tarjeta))
+    print("El numero máximo de tarjetas es" (total_tarjeta))
 if __name__== "__main__"
     main()
       
